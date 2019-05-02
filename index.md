@@ -1,37 +1,25 @@
 ## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MMesbahU/MMesbahU.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a final year PhD student under the Erasmus-Mundus Joint Doctorate Program in **Animal Breeding and Genetics** [EGS-ABG](http://www.egsabg.eu/), jointly hosted by **Aarhus University** [Center for Quantitative Genetics and Genomics (QGG)](http://mbg.au.dk/en/research/research-centres/center-for-quantitative-genetics-and-genomics/) and **AgroParisTech** [Génétique Animale et Biologie Intégrative (GABI)](https://www6.jouy.inra.fr/gabi/). 
+The focus of my PhD project is the use of whole-genome sequences to identify recessive genetic defects in dairy cattle. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, I am working on following:
+* deletion genotyping using Gaussian mixture model [GMM for genotypeing](http://pure.au.dk/portal/files/128029891/genotype_call_chromosomal_deletions_using_read_depth_whole_genome_sequence_variants_cattle.pdf)
+* building haplotype reference for imputing chromosomal deletions [ImputeDelPipeline](https://github.com/MMesbahU/ImputeDelPipeline)
+* GWAS and meta-analysis for female fertility using imputed whole-genome sequence variants and large deletions [GWAS](https://github.com/MMesbahU/gwas_in_cattle)
+* Prediction of breeding values 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Interest
+* Gene Mapping
+* Genomic prediction using deep learning; Bayesian Modeling
 
-```markdown
-Syntax highlighted code block
+## Publication
+* **Mesbah-Uddin, M., et al.**, *A missense mutation (p.Tyr452Cys) in CAD gene compromises reproductive success in French Normande cattle.* J Dairy Sci (accepted)
+* **Mesbah-Uddin, M., et al.**, *Genome-wide mapping of large deletions and their population-genetic properties in dairy cattle.* [DNA Res, 2018. 25(1): p. 49-59.](https://doi.org/10.1093/dnares/dsx037)
+* **Mesbah-Uddin, M., et al.**, *In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.* [PLoS One, 2015. 10(3): p. e0119420.](https://doi.org/10.1371/journal.pone.0119420)
+* **Mesbah-Uddin, M.**, *Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.* [PeerJ PrePrints, 2015. 3: p. e994v1.](https://doi.org/10.7287/peerj.preprints.994v1)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MMesbahU/MMesbahU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Conference
+* **Mesbah-Uddin, M., et al.** *Genotype call for chromosomal deletions using read-depth from whole genome sequence variants in cattle. in Proceedings of the World Congress on Genetics Applied to Livestock Production.* 2018. Auckland, New Zealand.[**Paper**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin%2C%20M.%20et%20al.%20WCGALP%202018.pdf) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/poster_MMU%20et%20al%20WCGALP2018.pdf)
+* **Mesbah-Uddin, M., et al.**, *A population scale discovery of large deletions in Holstein, Jersey and Nordic Red Cattle genome*, [in 36th International Society for Animal Genetics Conference. 2017: Dublin, Ireland.](http://www.isag.us/Docs/Proceedings/ISAG2017_Proceedings.pdf?v3) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin_et_al_2017_36th_ISAG_Dublin_Ireland.pdf)
