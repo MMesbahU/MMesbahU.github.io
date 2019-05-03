@@ -15,7 +15,7 @@ Currently, I am working on following:
 * Genomic prediction using deep learning; Bayesian Modeling
 
 ## Publication
-* **Mesbah-Uddin, M., et al.**, *A missense mutation (p.Tyr452Cys) in CAD gene compromises reproductive success in French Normande cattle.* J Dairy Sci (accepted)
+* **Mesbah-Uddin, M., et al.**, *A missense mutation (p.Tyr452Cys) in CAD gene compromises reproductive success in French Normande cattle.* [J Dairy Sci, 2019](https://doi.org/10.3168/jds.2018-16100)
 * **Mesbah-Uddin, M., et al.**, *Genome-wide mapping of large deletions and their population-genetic properties in dairy cattle.* [DNA Res, 2018. 25(1): p. 49-59.](https://doi.org/10.1093/dnares/dsx037)
 * **Mesbah-Uddin, M., et al.**, *In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.* [PLoS One, 2015. 10(3): p. e0119420.](https://doi.org/10.1371/journal.pone.0119420)
 * **Mesbah-Uddin, M.**, *Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.* [PeerJ PrePrints, 2015. 3: p. e994v1.](https://doi.org/10.7287/peerj.preprints.994v1)
