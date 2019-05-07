@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-I am a final year PhD student under the Erasmus-Mundus Joint Doctorate Program in **Animal Breeding and Genetics** [EGS-ABG](http://www.egsabg.eu/), jointly hosted by **Aarhus University** [Center for Quantitative Genetics and Genomics (QGG)](http://mbg.au.dk/en/research/research-centres/center-for-quantitative-genetics-and-genomics/) and **AgroParisTech** [Génétique Animale et Biologie Intégrative (GABI)](https://www6.jouy.inra.fr/gabi/). 
+I am a final year PhD candidate in **Genetics** under the Erasmus-Mundus Joint Doctorate Program [EGS-ABG](http://www.egsabg.eu/), jointly hosted by **Aarhus University** [Center for Quantitative Genetics and Genomics (QGG)](http://mbg.au.dk/en/research/research-centres/center-for-quantitative-genetics-and-genomics/) and **AgroParisTech** [Génétique Animale et Biologie Intégrative (GABI)](https://www6.jouy.inra.fr/gabi/). 
 The focus of my PhD project is the use of whole-genome sequences to identify recessive genetic defects in dairy cattle. 
 
 Currently, I am working on following:
