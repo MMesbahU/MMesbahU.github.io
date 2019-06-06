@@ -4,10 +4,6 @@ I am a final year PhD candidate in **Genetics** under the Erasmus-Mundus Joint D
 The focus of my PhD project is the use of whole-genome sequences to identify recessive genetic defects in dairy cattle.
 The title of the PhD project: "Identification of Causal Factors for Recessive Lethals in Dairy Cattle with Special Focus on Large Chromosomal Deletions"
 
-#### Github repo:
-* [ImputeDelPipeline](https://github.com/MMesbahU/ImputeDelPipeline): Pipelines for read-depth genotyping, building haplotype reference panel and imputing large chromosomal deletions along with WGS SNPs and indels
-* [GWAS](https://github.com/MMesbahU/gwas_in_cattle): collections of scripts I'm using for GWAS and Meta-analysis (ongoing)
-
 ### Ongoing Projects:
 Currently, I am working on following:
 * [GWAS and meta-analysis](https://github.com/MMesbahU/gwas_in_cattle) for female fertility using imputed whole-genome sequence variants and large deletions
@@ -40,3 +36,8 @@ I am interested in precision health care using genomics and machine learning app
 ### Conference
 * **Mesbah-Uddin, M., et al.** *Genotype call for chromosomal deletions using read-depth from whole genome sequence variants in cattle. in Proceedings of the World Congress on Genetics Applied to Livestock Production.* 2018. Auckland, New Zealand.[**Paper**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin%2C%20M.%20et%20al.%20WCGALP%202018.pdf) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/poster_MMU%20et%20al%20WCGALP2018.pdf)
 * **Mesbah-Uddin, M., et al.**, *A population scale discovery of large deletions in Holstein, Jersey and Nordic Red Cattle genome*, [in 36th International Society for Animal Genetics Conference. 2017: Dublin, Ireland.](http://www.isag.us/Docs/Proceedings/ISAG2017_Proceedings.pdf?v3) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin_et_al_2017_36th_ISAG_Dublin_Ireland.pdf)
+
+#### Github repo:
+* [ImputeDelPipeline](https://github.com/MMesbahU/ImputeDelPipeline): Pipelines for read-depth genotyping, building haplotype reference panel and imputing large chromosomal deletions along with WGS SNPs and indels
+* [GWAS](https://github.com/MMesbahU/gwas_in_cattle): collections of scripts I'm using for GWAS and Meta-analysis (ongoing)
+
