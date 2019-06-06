@@ -14,8 +14,8 @@ Currently, I am working on following:
 * Prediction of genomic breeding values using imputed SNPs, indels and large chromosomal deletion 
 
 ### Recently finished Projects
-* deletion genotyping using Gaussian mixture model [GMM for genotypeing](http://pure.au.dk/portal/files/128029891/genotype_call_chromosomal_deletions_using_read_depth_whole_genome_sequence_variants_cattle.pdf) [read_Depth_genotyping](https://github.com/MMesbahU/ImputeDelPipeline/tree/master/read_Depth_genotyping)
-* building haplotype reference for imputing chromosomal deletions [ImputeDelPipeline](https://github.com/MMesbahU/ImputeDelPipeline)
+* Deletion genotyping using Gaussian mixture model [GMM](https://github.com/MMesbahU/ImputeDelPipeline/tree/master/read_Depth_genotyping)
+* Building haplotype reference for imputing chromosomal deletions [ImputeDelPipeline](https://github.com/MMesbahU/ImputeDelPipeline)
 
 ## Research Interest
 I am interested in precision health care using genomics and machine learning appraoches. 
