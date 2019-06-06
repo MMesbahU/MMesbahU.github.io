@@ -10,7 +10,7 @@ The title of the PhD project: "Identification of Causal Factors for Recessive Le
 
 ### Ongoing Projects:
 Currently, I am working on following:
-* GWAS and meta-analysis for female fertility using imputed whole-genome sequence variants and large deletions [GWAS](https://github.com/MMesbahU/gwas_in_cattle)
+* [GWAS and meta-analysis](https://github.com/MMesbahU/gwas_in_cattle) for female fertility using imputed whole-genome sequence variants and large deletions
 * Prediction of genomic breeding values using imputed SNPs, indels and large chromosomal deletion 
 
 ### Recently finished Projects
