@@ -18,7 +18,7 @@ Currently, I am working on following:
   * Genomic prediction: using Frequentist, Bayesian and Deep Learning approaches
 
 ## Publication
-### Publised
+### Published/Accepted
 * **Mesbah-Uddin, M.**, B. Guldbrandtsen, M. S. Lund, D. Boichard and G. Sahana. *Joint imputation of whole-genome sequence variants and large chromosomal deletions in cattle.* J Dairy Sci, 2019 (accepted)
 * Wu, X., **M. Mesbah-Uddin**, B. Guldbrandtsen, M. S. Lund and G. Sahana. *Haplotypes responsible for early embryonic lethality detected in Nordic Holstein.* J Dairy Sci, 2019 (accepted)
 * **Mesbah-Uddin, M., et al.**, *A missense mutation (p.Tyr452Cys) in the CAD gene compromises reproductive success in French Normande cattle.* [J Dairy Sci, 2019](https://doi.org/10.3168/jds.2018-16100)
