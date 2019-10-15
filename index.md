@@ -18,13 +18,13 @@ The title of the PhD project: ["Identification of Causal Factors for Recessive L
 
 ## Publication
 ### Published/Accepted
-* **Mesbah-Uddin, M.**, B. Guldbrandtsen, M. S. Lund, D. Boichard and G. Sahana. *Joint imputation of whole-genome sequence variants and large chromosomal deletions in cattle.* J Dairy Sci, 2019 (accepted)
-* Wu, X., **M. Mesbah-Uddin**, B. Guldbrandtsen, M. S. Lund and G. Sahana. *Haplotypes responsible for early embryonic lethality detected in Nordic Holstein.* [J Dairy Sci, 2019](https://doi.org/10.3168/jds.2019-16651)
-* Hoze, C., C. Escouflaire, **M. Mesbah-Uddin**, A. Barbat, M. Boussaha, M. C. Deloche, D. Boichard, S. Fritz, and A. Capitan. *Short Communication: A splice site mutation in CENPU is associated with recessive embryonic lethality in Holstein cattle.* J Dairy Sci, 2019 (accepted)
-* **Mesbah-Uddin, M., et al.**, *A missense mutation (p.Tyr452Cys) in the CAD gene compromises reproductive success in French Normande cattle.* [J Dairy Sci, 2019](https://doi.org/10.3168/jds.2018-16100)
-* **Mesbah-Uddin, M., et al.**, *Genome-wide mapping of large deletions and their population-genetic properties in dairy cattle.* [DNA Res, 2018. 25(1): p. 49-59.](https://doi.org/10.1093/dnares/dsx037)
-* **Mesbah-Uddin, M., et al.**, *In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.* [PLoS One, 2015. 10(3): p. e0119420.](https://doi.org/10.1371/journal.pone.0119420)
-* **Mesbah-Uddin, M.**, *Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.* [PeerJ PrePrints, 2015. 3: p. e994v1.](https://doi.org/10.7287/peerj.preprints.994v1)
+* **Mesbah-Uddin, M.**, B. Guldbrandtsen, M. S. Lund, D. Boichard and G. Sahana. [*Joint imputation of whole-genome sequence variants and large chromosomal deletions in cattle.*](https://doi.org/10.3168/jds.2019-16946) **Journal of Dairy Science, 2019**
+* Wu, X., **M. Mesbah-Uddin**, B. Guldbrandtsen, M. S. Lund and G. Sahana. [*Haplotypes responsible for early embryonic lethality detected in Nordic Holstein.*](https://doi.org/10.3168/jds.2019-16651) **Journal of Dairy Science, 2019**
+* Hoze, C., C. Escouflaire, **M. Mesbah-Uddin**, A. Barbat, M. Boussaha, M. C. Deloche, D. Boichard, S. Fritz, and A. Capitan. *Short Communication: A splice site mutation in CENPU is associated with recessive embryonic lethality in Holstein cattle.* **Journal of Dairy Science, 2019** (accepted)
+* **Mesbah-Uddin, M., et al.**, [*A missense mutation (p.Tyr452Cys) in the CAD gene compromises reproductive success in French Normande cattle.*](https://doi.org/10.3168/jds.2018-16100) **Journal of Dairy Science, 2019**
+* **Mesbah-Uddin, M., et al.**, [*Genome-wide mapping of large deletions and their population-genetic properties in dairy cattle.*] (https://doi.org/10.1093/dnares/dsx037) **DNA Research, 2018. 25(1): p. 49-59**
+* **Mesbah-Uddin, M., et al.**, [*In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.*] (https://doi.org/10.1371/journal.pone.0119420) **PLoS One, 2015. 10(3): p. e0119420**
+* **Mesbah-Uddin, M.**, [*Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.*](https://doi.org/10.7287/peerj.preprints.994v1) **PeerJ PrePrints, 2015. 3: p. e994v1**
 
 
 ### In Preparation:
