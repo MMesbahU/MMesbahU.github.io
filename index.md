@@ -26,10 +26,13 @@ The title of the PhD project: ["Identification of Causal Factors for Recessive L
 * **M. Mesbah-Uddin, et al.**, [*In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.*](https://doi.org/10.1371/journal.pone.0119420) **PLoS One, 2015. 10(3): p. e0119420**
 * **M. Mesbah-Uddin**, [*Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.*](https://doi.org/10.7287/peerj.preprints.994v1) **PeerJ PrePrints, 2015. 3: p. e994v1**
 
+### In Review:
+* Wu, X., **M. Mesbah-Uddin**, et al., *Novel haplotypes responsible for prenatal death in Nordic Red and Danish Jersey cattle.*
 
 ### In Preparation:
 * **Mesbah-Uddin, M.**, B. Guldbrandtsen, A. Capitan, M. S. Lund, D. Boichard and G. Sahana. *Genome-wide association study with imputed whole-genome sequence variants including large deletions for female fertility in three Nordic dairy breeds.*
 * **Mesbah-Uddin, M.**, A. Capitan, B. Guldbrandtsen, M. S. Lund, G. Sahana and D. Boichard. *Genomic prediction for female fertility using imputed whole-genome sequence variants including large chromosomal deletions.*
+
 ### Conference
 * **Mesbah-Uddin, M., et al.** *Genotype call for chromosomal deletions using read-depth from whole genome sequence variants in cattle. in Proceedings of the World Congress on Genetics Applied to Livestock Production.* 2018. Auckland, New Zealand.[**Paper**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin%2C%20M.%20et%20al.%20WCGALP%202018.pdf) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/poster_MMU%20et%20al%20WCGALP2018.pdf)
 * **Mesbah-Uddin, M., et al.**, *A population scale discovery of large deletions in Holstein, Jersey and Nordic Red Cattle genome*, [in 36th International Society for Animal Genetics Conference. 2017: Dublin, Ireland.](http://www.isag.us/Docs/Proceedings/ISAG2017_Proceedings.pdf?v3) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin_et_al_2017_36th_ISAG_Dublin_Ireland.pdf)
