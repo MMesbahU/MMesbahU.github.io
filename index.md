@@ -18,13 +18,13 @@ The title of the PhD project: ["Identification of Causal Factors for Recessive L
 
 ## Publication
 ### Published/Accepted
-* **M. Mesbah-Uddin, et al.**, [*Joint imputation of whole-genome sequence variants and large chromosomal deletions in cattle.*](https://doi.org/10.3168/jds.2019-16946) **Journal of Dairy Science, 2019**
-* Wu, X., **M. Mesbah-Uddin**, et al., [*Haplotypes responsible for early embryonic lethality detected in Nordic Holstein.*](https://doi.org/10.3168/jds.2019-16651) **Journal of Dairy Science, 2019**
-* Hoze, C., C. Escouflaire, **M. Mesbah-Uddin**, et al., *Short Communication: A splice site mutation in CENPU is associated with recessive embryonic lethality in Holstein cattle.* **Journal of Dairy Science, 2019** (accepted)
-* **M. Mesbah-Uddin, et al.**, [*A missense mutation (p.Tyr452Cys) in the CAD gene compromises reproductive success in French Normande cattle.*](https://doi.org/10.3168/jds.2018-16100) **Journal of Dairy Science, 2019**
-* **M. Mesbah-Uddin, et al.**, [*Genome-wide mapping of large deletions and their population-genetic properties in dairy cattle.*](https://doi.org/10.1093/dnares/dsx037) **DNA Research, 2018. 25(1): p. 49-59**
-* **M. Mesbah-Uddin, et al.**, [*In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.*](https://doi.org/10.1371/journal.pone.0119420) **PLoS One, 2015. 10(3): p. e0119420**
-* **M. Mesbah-Uddin**, [*Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.*](https://doi.org/10.7287/peerj.preprints.994v1) **PeerJ PrePrints, 2015. 3: p. e994v1**
+1. C. Hoze, C. Escouflaire, **M. Mesbah-Uddin**, et al., [*Short Communication: A splice site mutation in CENPU is associated with recessive embryonic lethality in Holstein cattle.*](https://doi.org/10.3168/jds.2019-17056) **Journal of Dairy Science, 2019**
+2. **M. Mesbah-Uddin, et al.**, [*Joint imputation of whole-genome sequence variants and large chromosomal deletions in cattle.*](https://doi.org/10.3168/jds.2019-16946) **Journal of Dairy Science, 2019**
+3. Wu, X., **M. Mesbah-Uddin**, et al., [*Haplotypes responsible for early embryonic lethality detected in Nordic Holstein.*](https://doi.org/10.3168/jds.2019-16651) **Journal of Dairy Science, 2019**
+4. **M. Mesbah-Uddin, et al.**, [*A missense mutation (p.Tyr452Cys) in the CAD gene compromises reproductive success in French Normande cattle.*](https://doi.org/10.3168/jds.2018-16100) **Journal of Dairy Science, 2019**
+5. **M. Mesbah-Uddin, et al.**, [*Genome-wide mapping of large deletions and their population-genetic properties in dairy cattle.*](https://doi.org/10.1093/dnares/dsx037) **DNA Research, 2018. 25(1): p. 49-59**
+6. **M. Mesbah-Uddin, et al.**, [*In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.*](https://doi.org/10.1371/journal.pone.0119420) **PLoS One, 2015. 10(3): p. e0119420**
+7. **M. Mesbah-Uddin**, [*Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.*](https://doi.org/10.7287/peerj.preprints.994v1) **PeerJ PrePrints, 2015. 3: p. e994v1**
 
 ### In Review:
 * Wu, X., **M. Mesbah-Uddin**, et al., *Novel haplotypes responsible for prenatal death in Nordic Red and Danish Jersey cattle.*
@@ -34,8 +34,8 @@ The title of the PhD project: ["Identification of Causal Factors for Recessive L
 * **Mesbah-Uddin, M.**, A. Capitan, B. Guldbrandtsen, M. S. Lund, G. Sahana and D. Boichard. *Genomic prediction for female fertility using imputed whole-genome sequence variants including large chromosomal deletions.*
 
 ### Conference
-* **Mesbah-Uddin, M., et al.** *Genotype call for chromosomal deletions using read-depth from whole genome sequence variants in cattle. in Proceedings of the World Congress on Genetics Applied to Livestock Production.* 2018. Auckland, New Zealand.[**Paper**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin%2C%20M.%20et%20al.%20WCGALP%202018.pdf) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/poster_MMU%20et%20al%20WCGALP2018.pdf)
-* **Mesbah-Uddin, M., et al.**, *A population scale discovery of large deletions in Holstein, Jersey and Nordic Red Cattle genome*, [in 36th International Society for Animal Genetics Conference. 2017: Dublin, Ireland.](http://www.isag.us/Docs/Proceedings/ISAG2017_Proceedings.pdf?v3) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin_et_al_2017_36th_ISAG_Dublin_Ireland.pdf)
+1. **Mesbah-Uddin, M., et al.** *Genotype call for chromosomal deletions using read-depth from whole genome sequence variants in cattle. in Proceedings of the World Congress on Genetics Applied to Livestock Production.* 2018. Auckland, New Zealand.[**Paper**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin%2C%20M.%20et%20al.%20WCGALP%202018.pdf) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/poster_MMU%20et%20al%20WCGALP2018.pdf)
+2. **Mesbah-Uddin, M., et al.**, *A population scale discovery of large deletions in Holstein, Jersey and Nordic Red Cattle genome*, [in 36th International Society for Animal Genetics Conference. 2017: Dublin, Ireland.](http://www.isag.us/Docs/Proceedings/ISAG2017_Proceedings.pdf?v3) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin_et_al_2017_36th_ISAG_Dublin_Ireland.pdf)
 
 ## Github repo:
 * [ImputeDelPipeline](https://github.com/MMesbahU/ImputeDelPipeline): Pipelines for read-depth genotyping, building haplotype reference panel and imputing large chromosomal deletions along with WGS SNPs and indels
