@@ -19,15 +19,15 @@ The title of the PhD project: ["Identification of Causal Factors for Recessive L
 
 ## Publication
 ### Published
-* **Mesbah-Uddin, M.**, B. Guldbrandtsen, A. Capitan, M. S. Lund, D. Boichard and G. Sahana. [*Genome-wide association study with imputed whole-genome sequence variants including large deletions for female fertility in 3 Nordic dairy cattle breeds.*](https://doi.org/10.3168/jds.2021-20655) **Journal of Dairy Science, 2021. **
-C. Hoze, C. Escouflaire, **M. Mesbah-Uddin**, et al., [*Short Communication: A splice site mutation in CENPU is associated with recessive embryonic lethality in Holstein cattle.*](https://doi.org/10.3168/jds.2019-17056) **Journal of Dairy Science, 2020. 103(1): p. 607–612**
-**M. Mesbah-Uddin, et al.**, [*Joint imputation of whole-genome sequence variants and large chromosomal deletions in cattle.*](https://doi.org/10.3168/jds.2019-16946) **Journal of Dairy Science, 2019. 102(12): p. 11193–11206**
-Wu, X., **M. Mesbah-Uddin**, et al., [*Haplotypes responsible for early embryonic lethality detected in Nordic Holstein.*](https://doi.org/10.3168/jds.2019-16651) **Journal of Dairy Science, 2019. 102(12): p. 11116–11123**
-**M. Mesbah-Uddin, et al.**, [*A missense mutation (p.Tyr452Cys) in the CAD gene compromises reproductive success in French Normande cattle.*](https://doi.org/10.3168/jds.2018-16100) **Journal of Dairy Science, 2019. 102(7): p. 6340–6356**
-**M. Mesbah-Uddin, et al.**, [*Genome-wide mapping of large deletions and their population-genetic properties in dairy cattle.*](https://doi.org/10.1093/dnares/dsx037) **DNA Research, 2018. 25(1): p. 49-59**
-**M. Mesbah-Uddin, et al.**, [*In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.*](https://doi.org/10.1371/journal.pone.0119420) **PLoS One, 2015. 10(3): p. e0119420**
-**M. Mesbah-Uddin**, [*Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.*](https://doi.org/10.7287/peerj.preprints.994v1) **PeerJ PrePrints, 2015. 3: p. e994v1**
-* Wu, X., **M. Mesbah-Uddin**, et al., *Novel haplotypes responsible for prenatal death in Nordic Red and Danish Jersey cattle.*
+1. **Mesbah-Uddin, M.**, B. Guldbrandtsen, A. Capitan, M. S. Lund, D. Boichard and G. Sahana. [*Genome-wide association study with imputed whole-genome sequence variants including large deletions for female fertility in 3 Nordic dairy cattle breeds.*](https://doi.org/10.3168/jds.2021-20655) **Journal of Dairy Science, 2021. **
+2. C. Hoze, C. Escouflaire, **M. Mesbah-Uddin**, et al., [*Short Communication: A splice site mutation in CENPU is associated with recessive embryonic lethality in Holstein cattle.*](https://doi.org/10.3168/jds.2019-17056) **Journal of Dairy Science, 2020. 103(1): p. 607–612**
+3. **M. Mesbah-Uddin, et al.**, [*Joint imputation of whole-genome sequence variants and large chromosomal deletions in cattle.*](https://doi.org/10.3168/jds.2019-16946) **Journal of Dairy Science, 2019. 102(12): p. 11193–11206**
+4. Wu, X., **M. Mesbah-Uddin**, et al., [*Haplotypes responsible for early embryonic lethality detected in Nordic Holstein.*](https://doi.org/10.3168/jds.2019-16651) **Journal of Dairy Science, 2019. 102(12): p. 11116–11123**
+5. **M. Mesbah-Uddin, et al.**, [*A missense mutation (p.Tyr452Cys) in the CAD gene compromises reproductive success in French Normande cattle.*](https://doi.org/10.3168/jds.2018-16100) **Journal of Dairy Science, 2019. 102(7): p. 6340–6356**
+6. **M. Mesbah-Uddin, et al.**, [*Genome-wide mapping of large deletions and their population-genetic properties in dairy cattle.*](https://doi.org/10.1093/dnares/dsx037) **DNA Research, 2018. 25(1): p. 49-59**
+7. **M. Mesbah-Uddin, et al.**, [*In-silico analysis of inflammatory bowel disease (IBD) GWAS loci to novel connections.*](https://doi.org/10.1371/journal.pone.0119420) **PLoS One, 2015. 10(3): p. e0119420**
+8. **M. Mesbah-Uddin**, [*Prediction of deleterious nonsynonymous SNPs by integrating multiple classifiers – An application to neurodegenerative diseases.*](https://doi.org/10.7287/peerj.preprints.994v1) **PeerJ PrePrints, 2015. 3: p. e994v1**
+9. Wu, X., **M. Mesbah-Uddin**, et al., *Novel haplotypes responsible for prenatal death in Nordic Red and Danish Jersey cattle.*
 
 ### Conference
 1. **Mesbah-Uddin, M., et al.** *Genotype call for chromosomal deletions using read-depth from whole genome sequence variants in cattle. in Proceedings of the World Congress on Genetics Applied to Livestock Production.* 2018. Auckland, New Zealand.[**Paper**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/Mesbah-Uddin%2C%20M.%20et%20al.%20WCGALP%202018.pdf) [**Poster**](https://github.com/MMesbahU/MMesbahU.github.io/blob/master/pdfs/poster_MMU%20et%20al%20WCGALP2018.pdf)
